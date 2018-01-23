@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="gradeid_text">Grade ID: </string>
+    <string name="subject_text">Subject</string>
+    <string name="grade_text">Grade</string>
+    <string name="idnotassigned_text">ID Not Assigned</string>
+    <string name="add_button">Add</string>
+    <string name="find_button">Find</string>
+    <string name="delete_button">Delete</string>
+    <string name="update_button">Update</string>
+    <string name="delete_all_button">Delete All</string>
+</resources>
